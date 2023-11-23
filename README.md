@@ -1,6 +1,6 @@
 # [Ahmed Khaled]
 
-![Profile Picture](blob:https://web.telegram.org/2ad3eb2a-c9f6-4c16-bfd4-c5ce985e72a8)
+![Profile Picture](https://drive.google.com/file/d/1ZvFLAqfUDQ3ydrXcD22WiVgfMCO0yF-W/view?usp=sharing)
 
 ## Introduction
 
