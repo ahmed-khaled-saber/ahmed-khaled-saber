@@ -1,6 +1,6 @@
-# [Your Name]
+# [Ahmed Khaled]
 
-![Profile Picture](url_to_your_profile_picture)
+![Profile Picture](blob:https://web.telegram.org/2ad3eb2a-c9f6-4c16-bfd4-c5ce985e72a8)
 
 ## Introduction
 
@@ -31,10 +31,6 @@ Here are some projects I'm proud of:
 2. [Project Name](Link to Project)
    - Brief description of the project and your role.
 
-## Blog
-
-I occasionally write about [Topics You Write About] on my [Blog](Link to Blog).
-
 ## Connect with Me
 
 - [LinkedIn](Link to LinkedIn Profile)
@@ -46,5 +42,7 @@ I occasionally write about [Topics You Write About] on my [Blog](Link to Blog).
 - I love [Hobbies/Interests].
 - My favorite programming language is [Your Favorite Language].
 - I believe in [Your Personal Philosophy].
+
+![Fun Image Caption](url_to_fun_image)
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or just want to chat.
